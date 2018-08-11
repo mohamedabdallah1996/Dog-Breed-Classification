@@ -14,3 +14,10 @@ Along with exploring state-of-the-art CNN models for classification, you will ma
 ## Project Instructions and Installation
 
 you can check [this](https://github.com/udacity/dog-project) to go to the main project instructions and installation created by alexis. 
+
+## Built With
+
+* Keras
+* Sklearn
+* OpenCV
+* Numpy
